@@ -19,3 +19,7 @@ Using SMOTE balances classes, enhancing model predictions, ensuring accuracy and
 # Fitting_texts 
 This task invloves comparing two sheets, Evaluating them by extracting the answers from one sheet using OCR and fitting them in empty spaces sheet.
 Used: Segmentation, extracting contours, OCR.
+
+# GetPrescription (project undergoing)
+This task extracts medicine names and its corresponding frequency mentioned in prescription image using OCR. This info is stored in final_info function which returns
+dictionary of medicine names and frequency to intake those medicine. 
