@@ -13,4 +13,4 @@ This repo consists of few exercises, projects, tasks related to NLP, Transformer
 ## Problems Encountered and Further Improvements
 While achieving an accuracy of over 89%, the model struggles to make accurate predictions due to imbalanced class distribution. Classes like "sadness" and "joy" are oversampled, affecting prediction accuracy for minority classes. Balancing techniques, such as oversampling or weighted loss, are needed to improve predictions across all classes.
 After some research:
-*Using SMOTE balances classes, enhancing model predictions, ensuring accuracy and reliability across all categories.
+Using SMOTE balances classes, enhancing model predictions, ensuring accuracy and reliability across all categories.
