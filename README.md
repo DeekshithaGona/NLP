@@ -21,5 +21,5 @@ This task invloves comparing two sheets, Evaluating them by extracting the answe
 Used: Segmentation, extracting contours, OCR.
 
 # GetPrescription (project undergoing)
-This task extracts medicine names and its corresponding frequency mentioned in prescription image using OCR. This info is stored in final_info function which returns
-dictionary of medicine names and frequency to intake those medicine. 
+This task focuses on extracting medicine names and its corresponding frequency mentioned in prescription image using OCR. This info is stored in final_info function which returns dictionary of medicine names and frequency.  
+Requirements: (Image has specified format) 
