@@ -14,3 +14,8 @@ This repo consists of few exercises, projects, tasks related to NLP, Transformer
 While achieving an accuracy of over 89%, the model struggles to make accurate predictions due to imbalanced class distribution. Classes like "sadness" and "joy" are oversampled, affecting prediction accuracy for minority classes. Balancing techniques, such as oversampling or weighted loss, are needed to improve predictions across all classes.
 After some research:
 Using SMOTE balances classes, enhancing model predictions, ensuring accuracy and reliability across all categories.
+
+
+# Fitting_texts 
+This task invloves comparing two sheets, Evaluating them by extracting the answers from one sheet using OCR and fitting them in empty spaces sheet.
+Used: Segmentation, extracting contours, OCR.
